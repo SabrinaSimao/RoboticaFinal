@@ -1,0 +1,129 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7654]
+    Renderer: NVIDIA GeForce 920M
+    Vendor:   NVIDIA
+    VRAM:     2020 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sabri\Documents\3_semestre\Robotica 4\Representação Virtual de Pathfinding - Robótica Computacional_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.114892 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 43cc -> priority: 1 
+  Thread -> id: 4bf4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 4.050307 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.554520 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.025659 ms MarkObjects: 1.481392 ms  DeleteObjects: 0.011546 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.499071 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.421948 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.022665 ms MarkObjects: 1.364215 ms  DeleteObjects: 0.006842 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.388737 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.395433 ms (FindLiveObjects: 0.031218 ms CreateObjectMapping: 0.020099 ms MarkObjects: 1.335989 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.433640 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.468562 ms (FindLiveObjects: 0.035922 ms CreateObjectMapping: 0.017961 ms MarkObjects: 1.406552 ms  DeleteObjects: 0.007270 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.432785 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.440337 ms (FindLiveObjects: 0.039771 ms CreateObjectMapping: 0.024803 ms MarkObjects: 1.359083 ms  DeleteObjects: 0.015823 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.479399 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.480964 ms (FindLiveObjects: 0.030363 ms CreateObjectMapping: 0.021382 ms MarkObjects: 1.421092 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.452885 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.410401 ms (FindLiveObjects: 0.041482 ms CreateObjectMapping: 0.016250 ms MarkObjects: 1.344542 ms  DeleteObjects: 0.006842 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.407126 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.448462 ms (FindLiveObjects: 0.032929 ms CreateObjectMapping: 0.020955 ms MarkObjects: 1.386025 ms  DeleteObjects: 0.007270 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.518316 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.415533 ms (FindLiveObjects: 0.022237 ms CreateObjectMapping: 0.022665 ms MarkObjects: 1.362504 ms  DeleteObjects: 0.007270 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.520026 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.576331 ms (FindLiveObjects: 0.036350 ms CreateObjectMapping: 0.024803 ms MarkObjects: 1.506623 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.454595 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.421520 ms (FindLiveObjects: 0.034212 ms CreateObjectMapping: 0.018816 ms MarkObjects: 1.360793 ms  DeleteObjects: 0.007270 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.404560 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 2.096358 ms (FindLiveObjects: 0.052173 ms CreateObjectMapping: 0.023093 ms MarkObjects: 2.006550 ms  DeleteObjects: 0.011974 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.447753 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.428790 ms (FindLiveObjects: 0.036778 ms CreateObjectMapping: 0.023520 ms MarkObjects: 1.360793 ms  DeleteObjects: 0.007270 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.375907 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.432639 ms (FindLiveObjects: 0.039771 ms CreateObjectMapping: 0.023093 ms MarkObjects: 1.359510 ms  DeleteObjects: 0.008980 ms)
+
