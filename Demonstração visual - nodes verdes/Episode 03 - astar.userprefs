@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Episode 03 - astar.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pathfinding.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Pathfinding.cs" Line="132" Column="1" />
+      <File FileName="Assets\Scripts\Node.cs" Line="24" Column="16" />
+      <File FileName="Assets\Scripts\Grid.cs" Line="90" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
